@@ -1,5 +1,5 @@
 # Search-middleware
-personal project to master search middleware tasks 
+personal project to master search middleware 
 
 This project is a scalable search middleware built using Node.js, MongoDB, and TypeScript, with third-party search integration using Algolia. The middleware aims to enhance search functionality for web applications by leveraging real-time data synchronization, metadata-driven searches, and event-driven architecture using Kafka.
 
